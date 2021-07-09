@@ -1,2 +1,2 @@
 # IMERSÃO GAME DEV
-## Desenvolvimento: GAME HIPSTER - um jogo desenvolvido durante a semana de imersão GAME DEV da ALURA. 
+## Desenvolvimento: GAME HIPSTER - um jogo desenvolvido durante a semana de imersão GAME DEV - ALURA. 
